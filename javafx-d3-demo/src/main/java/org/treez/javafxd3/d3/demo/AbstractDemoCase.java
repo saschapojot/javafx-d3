@@ -12,7 +12,7 @@ import javafx.scene.layout.VBox;
 import org.treez.javafxd3.d3.core.JsEngine;
 
 /**
- * Abstract parent class for all demo cases
+ * Abstract parent class for all demo caseskm
  * 
  */
 public abstract class AbstractDemoCase implements DemoCase {
