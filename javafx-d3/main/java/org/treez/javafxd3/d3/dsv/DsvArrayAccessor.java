@@ -7,7 +7,7 @@ package org.treez.javafxd3.d3.dsv;
  * null, the row is stripped from the returned array of rows. In effect, the
  * accessor is similar to applying a map and filter operator to the returned
  * rows. The accessor function is used by parse to convert each row to an object
- * with named attributes.
+ * with named attributes.ddddddddddddd
  * 
  * 
  * 
