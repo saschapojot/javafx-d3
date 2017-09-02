@@ -20,7 +20,7 @@ public class FunctionPlotterDemo extends Application {
 	@Override
 	public void start(Stage stage) {
 
-		//set stage title
+		//set stage title...
 		stage.setTitle("Functionplotter demo");		
 		
 		//create function plotter
